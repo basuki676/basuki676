@@ -40,9 +40,14 @@
 <!-- Divider GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/basuki676/basuki676/output/snake.svg" alt="Snake animation" />
+<!-- Pacman Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basuki676/basuki676/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/basuki676/basuki676/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/basuki676/basuki676/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 <!-- Spotify Section -->
 <h3 align="center">🎵 My Recently Played Spotify Tracks</h3>
 <div align="center">
